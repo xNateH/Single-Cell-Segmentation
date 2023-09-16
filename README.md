@@ -1,4 +1,3 @@
-# Single-Cell-Segmentation
 # Single Cell Segmentation using UNet
 
 This repository contains code for performing single cell segmentation using the UNet architecture. It includes data preprocessing, model training, and evaluation. The code is designed to work with PyTorch and is well-documented to help you get started with your own single cell segmentation project.
